@@ -116,26 +116,27 @@ I'm **Omkar Surade**, a Computer Engineering student passionate about building p
 
 ### 🤖 AI / Machine Learning / Data Science
 
+### 🤖 AI / Machine Learning / Data Science
+
 <p align="left">
 
-<a href="https://numpy.org/">
-<img src="https://skillicons.dev/icons?i=numpy" width="50" alt="NumPy"/>
+<a href="https://numpy.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
 </a>
 
-<a href="https://pandas.pydata.org/">
-<img src="https://skillicons.dev/icons?i=pandas" width="50" alt="Pandas"/>
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
 </a>
 
-<a href="https://scikit-learn.org/">
-<img src="https://skillicons.dev/icons?i=sklearn" width="50" alt="Scikit-learn"/>
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn"/>
 </a>
 
-<a href="https://www.tensorflow.org/">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="50" alt="TensorFlow"/>
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
 </a>
 
 </p>
-
 ### 🔧 Tools & Platforms
 
 <p align="left">
