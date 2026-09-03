@@ -137,7 +137,7 @@ I'm **Omkar Surade**, a Computer Engineering student passionate about building p
 </a>
 
 </p>
-### 🔧 Tools & Platforms
+🔧 Tools & Platforms
 
 <p align="left">
 
@@ -232,7 +232,7 @@ I'm **Omkar Surade**, a Computer Engineering student passionate about building p
 
 </div>
 
-> **Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual repository names.**
+<!--> **Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual repository names.**-->
 
 ### 💡 Recommended projects to feature
 
