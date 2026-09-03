@@ -116,8 +116,6 @@ I'm **Omkar Surade**, a Computer Engineering student passionate about building p
 
 ### 🤖 AI / Machine Learning / Data Science
 
-### 🤖 AI / Machine Learning / Data Science
-
 <p align="left">
 
 <a href="https://numpy.org/" target="_blank">
