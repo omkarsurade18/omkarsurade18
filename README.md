@@ -218,8 +218,8 @@ I'm **Omkar Surade**, a Computer Engineering student passionate about building p
 --- 
 -->
 
-# 🚀 Featured Projects
-<!-- 
+<!-- # 🚀 Featured Projects
+
 <div align="center">
 
 <a href="https://github.com/omkarsurade18">
@@ -233,7 +233,7 @@ I'm **Omkar Surade**, a Computer Engineering student passionate about building p
 </div>
 
  > **Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual repository names.**
- -->
+
 
 ### 💡 Recommended projects to feature
 
@@ -245,7 +245,7 @@ I'm **Omkar Surade**, a Computer Engineering student passionate about building p
 * 🎯 Interview Preparation Platform
 
 ---
-
+ -->
 # 🎯 What I'm Currently Working On
 
 ```text
