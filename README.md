@@ -164,7 +164,7 @@ I'm **Omkar Surade**, a Computer Engineering student passionate about building p
 
 ---
 
-# 📊 GitHub Analytics
+<!-- # 📊 GitHub Analytics
 
 <div align="center">
 
@@ -174,7 +174,7 @@ I'm **Omkar Surade**, a Computer Engineering student passionate about building p
 
 </div>
 
----
+--->  
 
 ## 🔥 Contribution Streak
 
@@ -185,7 +185,7 @@ I'm **Omkar Surade**, a Computer Engineering student passionate about building p
 </div>
 
 ---
-
+<!--
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -214,7 +214,8 @@ I'm **Omkar Surade**, a Computer Engineering student passionate about building p
 
 </div>
 
----
+--- 
+-->
 
 # 🚀 Featured Projects
 
