@@ -135,7 +135,7 @@ I'm **Omkar Surade**, a Computer Engineering student passionate about building p
 </a>
 
 </p>
-### 🔧 Tools & Platforms
+🔧 Tools & Platforms
 
 <p align="left">
 
